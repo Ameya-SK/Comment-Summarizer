@@ -1,4 +1,4 @@
-Comment-Summarizer
+Comment-Summarizer.
 The Code summarizes the comments. its written in Python
 python 3.x is needed to run the code. 
 the input file has to be stored in same directory with summary.py
